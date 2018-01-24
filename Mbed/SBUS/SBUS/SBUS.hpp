@@ -1,7 +1,5 @@
 #ifndef _SBUS_
 #define _SBUS_
-#define _SBUS_
-
 #include "mbed.h"
 
 class SBUS
